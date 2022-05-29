@@ -1,0 +1,2 @@
+In this project I have defined a function that generates random numbers without using any inbuilt library of python.
+I have also calculated value the approximate value of pi using these random numbers.
